@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hey! I’m Ernesto
 
-<!--
-**ernohilarion/ernohilarion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a Full Stack Web Developer with a background in architecture, graphic design, and contemporary art. This diverse experience helps me create web applications that are both functional and visually appealing, with meticulous attention to detail. I focus on developing technically solid and aesthetically pleasing solutions, constantly learning and adapting to new technologies. My goal is to leverage my design skills to create efficient, functional, and visually impactful applications.
 
-Here are some ideas to get you started:
+[Happy to check out my web](https://ernesto-hilarion.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+
+ **React** | **JavaScript (ES6)** | **Node.js** | **Express** | **MongoDB** | **CSS** | **HTML** | **UI Design** | **Graphic Design** | **Figma** |  **Figma**  | **Adobe**
+
+## Key Projects
+
+- [THE ROW](https://github.com/your-username/the-row) | Web platform for contemporary art auctions.
+- [DROP HIT](https://github.com/your-username/drop-hit) | Platform for record labels and music producers.
+- [SOKOBAN](https://github.com/your-username/sokoban) | Game inspired by the classic Japanese puzzle game from the 80s.
+
+ 
