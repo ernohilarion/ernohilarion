@@ -1,8 +1,8 @@
-# ¡Hey! I’m Ernesto
+# Hey! I’m Ernesto
 
 a Full Stack Web Developer with a background in architecture, graphic design, and contemporary art. This diverse experience helps me create web applications that are both functional and visually appealing, with meticulous attention to detail. I focus on developing technically solid and aesthetically pleasing solutions, constantly learning and adapting to new technologies. My goal is to leverage my design skills to create efficient, functional, and visually impactful applications.
 
-[Happy to check out my web](https://ernesto-hilarion.netlify.app/)
+[Happy to check out my Web](https://ernesto-hilarion.netlify.app/)
 
 ## Technologies and Tools
 
